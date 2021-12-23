@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import "./App.css";
 import { Pages } from "./routes";
-import styled from "styled-components";
 // import { useHistory } from "react-router";
 
 function App() {
